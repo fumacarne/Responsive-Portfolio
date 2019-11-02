@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box
+}
+body{
+    background: rgb(209, 222, 227);
+}
+
+header{
+    clear: both;
+    justify-content: space-between;
+    float: left;
+    color:rgb(23, 14, 14)
+}
+ul{
+    display: flex;
+    flex-direction:row;
+    justify-content: space-between;
+
+}
